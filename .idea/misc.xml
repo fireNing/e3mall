@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-cart/e3-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-content/e3-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-manager/e3-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-order/e3-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-quest/e3-quest-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-search/e3-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/e3-parent/e3-sso/e3-sso-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/e3-parent/e3-Search/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-parent/e3-content/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-parent/e3-search/e3-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/e3-parent/e3-search/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" location="$PROJECT_DIR$/../../dubbo/dubbo.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
